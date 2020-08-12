@@ -1,0 +1,9 @@
+﻿  main.cpp
+main.cpp(53): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating code
+  7 of 375 functions ( 1.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Assignment1.vcxproj -> D:\CV\Assignment\Assignment1\x64\Release\Assignment1.exe
+  Assignment1.vcxproj -> D:\CV\Assignment\Assignment1\x64\Release\Assignment1.pdb (Full PDB)
